@@ -1,1 +1,6 @@
-# fictional-octo-chainsaw
+GitHub Pages Exercise 
+===========
+Involves 
+* git
+* GitHub
+* SSH
